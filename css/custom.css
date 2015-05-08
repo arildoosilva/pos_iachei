@@ -1,0 +1,17 @@
+blockquote.pull-center {
+    margin: 0 auto;
+}
+
+
+.ad-wrapper {
+    height: 270px !important;
+}
+
+.feature-item-pills {
+    cursor:default;
+}
+
+.mapa {
+    padding-bottom: 350px;
+    text-align: center;
+}
